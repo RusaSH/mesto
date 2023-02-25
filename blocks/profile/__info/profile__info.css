@@ -14,8 +14,9 @@
   }
 }
 
-@media screen and (max-width: 582px) {
+@media screen and (max-width: 583px) {
   .profile__info {
     padding: 26px 0 0 0;
+    place-items: center;
   }
 }
