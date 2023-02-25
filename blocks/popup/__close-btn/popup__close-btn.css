@@ -17,7 +17,7 @@
   cursor: pointer;
 }
 
-.popup__close-btn {
+.popup__close-btn:hover {
   opacity: 0.8;
   cursor: pointer;
 }
